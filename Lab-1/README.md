@@ -21,7 +21,7 @@ Upon completing the lab, you will know how to:
 
 ### Step 1.  Log into your [DSX](http://datascience.ibm.com/) account, then select `View All Projects`, then select the project you created at the beginning of this proof of technology.
 
-> <img src="https://raw.githubusercontent.com/Davin-IBM/Proof-of-Technology/master/DSX/Lab-1/images/DSX-open-project.png"/>
+> <img src="https://raw.githubusercontent.com/jpatter/Proof-of-Technology/master/DSX/Lab-1/images/DSX-open-project.png"/>
 
 ### Step 2.  Click the `add notebooks` link in the top right of your project pane.
 
