@@ -1,0 +1,36 @@
+{% extends 'bootstrap/base.html' %}
+{% import "bootstrap/wtf.html" as wtf %}
+{% block title %}Titanic Prediction{% endblock %}
+{% block navbar %}
+    <nav class="navbar navbar-inverse" role="navigation">
+        <div class="container">
+        <a class="navbar-brand" href="#">Titanic Prediction</a>
+        </div>
+    </nav>
+{% endblock %}
+{% block content %}
+    <div class="container">
+        <form method="POST" action="">
+            <div class="row">
+                <div class="col-md-12">
+                <h3>To determine the survival prediction,please enter the following:</h3>
+            </div>
+        </div>
+    <div class="row">
+        <div class="col-md-8">
+            <p>{{ form.pclass.label }} {{ wtf.form_field(form.pclass) }}</p>
+            <p>{{ form.name.label }} {{ form.name }}</p>
+            <p>{{ form.sex.label }} {{ wtf.form_field(form.sex) }}</p>
+	        <p>{{ form.sibsp.label }} {{ form.sibsp }}</p>
+            <p>{{ form.parch.label }} {{ form.parch }}</p>	           
+            <p>{{ form.ticket.label }} {{ form.ticket }}</p>
+            <p>{{ form.fare.label }} {{ form.fare }}</p>
+            <p>{{ form.embarked.label }} {{ wtf.form_field(form.embarked) }}</p>
+	        <p>{{ form.age.label }} {{ wtf.form_field(form.age) }}</p>
+            <br>
+            {{ form.submit() }}
+            {{ form.hidden_tag() }}
+        </div>
+    </div>
+</div>
+{% endblock %}
