@@ -20,4 +20,4 @@ Upon completing the lab, you will know how to:
 
 ### Step 1.  Follow the instructions in the PDF file.
 
-[Watson Machine Learning](Instructions_titanic.pdf)
+[Watson Machine Learning](WatsonMachineLearning.pdf)
