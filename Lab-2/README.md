@@ -14,6 +14,7 @@ Upon completing the lab, you will know how to:
 1. Adding a dataset to the project
 1. Create a model to determine survivors
 1. Deploy and test the model
+1. Create a simple web front end
 
 ## Instructions:
 
