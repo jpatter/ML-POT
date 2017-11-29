@@ -26,32 +26,37 @@ __NOTE__: If you already have a DSX account, please skip to __Step 2__.
 
 1.  Go to [http://datascience.ibm.com/](http://datascience.ibm.com/)
 
-2.  Click the signup button on the top right
+2.  Click the Sign Up button on the top right
 
 > <img src="https://github.com/jpatter/ML-POT/blob/master/Images/BLB%20Sign%20Up%20Screen.png" width="624" height="300">
 
 
-3. Enter your email and press Continue. Note: If you already have an IBM id you can click Sign in with your IBM id -- if you don't have a DSX account one will be created for you.
+3. Enter your email, click to accept the terms, and click Next. Note: If you already have an IBM id you can click Sign in with your IBM id -- if you don't have a DSX account one will be created for you.
 
-> <img src="https://raw.githubusercontent.com/Davin-IBM/Proof-of-Technology/master/DSX/images/Enter%20Email.png" width="624" height="300">
+> <img src="https://github.com/jpatter/ML-POT/blob/master/Images/BLB%20RegisterForCloud.png" width="624" height="300">
 
-4. You should get an email from "ibmacct@us.ibm.com" with your IBMid Confirmation code
+4. On the next page, fill in the corresponsing fields and click Create Account
 
- >  <img src="https://github.com/IBMDataScience/wow-lab-to-production/blob/master/images/confirmation-code.png?raw=true" width="624" height="300">
+ >  <img src="https://github.com/jpatter/ML-POT/blob/master/Images/BLB%20Enter%20Account%20Information.png" width="624" height="300">
 
-5. Then, on the next page fill in the corresponding fields and click CREATE ACCOUNT
+5. You will see the following screen. You need to go to your e-mail account to complete the sign up process. 
 
- > <img src="https://raw.githubusercontent.com/Davin-IBM/Proof-of-Technology/master/DSX/images/Enter.png" width="624" height="300"/>
+ > <img src="https://github.com/jpatter/ML-POT/blob/master/Images/BLB%20To%20Complete%20Account%20Check%20e-mail..png" width="624" height="300"/>
 
-6. In the new page, write your email and click CONTINUE
+6. In your e-mail inbox, there should be a message from The Bluemix Team. 
 
- >  <img src="https://github.com/IBMDataScience/wow-lab-to-production/blob/master/images/enter-email.png?raw=true"/>
+ >  <img src="https://github.com/jpatter/ML-POT/blob/master/Images/BLB%20e-mail%20from%20Bluemix%20Team.png"/>
 
-7. Write your recently generated password and click on SIGN IN
+7. Open the e-mail and click on Confirm Account. 
 
- >  <img src="https://github.com/IBMDataScience/wow-lab-to-production/blob/master/images/enter-password.png?raw=true"/>
+ >  <img src="https://github.com/jpatter/ML-POT/blob/master/Images/BLB%20Thankyou%20for%20Signing%20Up%20email.png"/>
 
-8. It will take a minute to create your account. When ready, click on Get Started.
+8. Go back to the DSX session, and enter your DSX user id (e-mail account) and click Continue. 
+ >  <img src="https://github.com/jpatter/ML-POT/blob/master/Images/BLB%20Sign%20into%20DSX%20User%20ID.png"/>
+
+9. Enter your password and click Sign Up. 
+ >  <img src="https://github.com/jpatter/ML-POT/blob/master/Images/BLB%20Sign%20into%20DSX%20Password.png"/>
+
 
  > You are now in the Data Science Experience landing page. Your environment is automatically set up with one Apache Spark instance and 5 GB of object storage. From here you can explore any of the tutorials, videos, sample notebooks, totorials or articles in the community.
 
