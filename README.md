@@ -28,7 +28,7 @@ __NOTE__: If you already have a DSX account, please skip to __Step 2__.
 
 2.  Click the signup button on the top right
 
-> <img src="https://raw.githubusercontent.com/Davin-IBM/Proof-of-Technology/master/DSX/images/DSX%20Sign%20Up.png" width="624" height="300">
+> <img src="https://raw.githubusercontent.com/jpatter/ML-POT/master/images/BLB%20Sign%20Up%20Screen.png" width="624" height="300">
 
 3. Enter your email and press Continue. Note: If you already have an IBM id you can click Sign in with your IBM id -- if you don't have a DSX account one will be created for you.
 
