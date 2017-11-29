@@ -54,28 +54,36 @@ __NOTE__: If you already have a DSX account, please skip to __Step 2__.
 8. Go back to the DSX session, and enter your DSX user id (e-mail account) and click Continue. 
  >  <img src="https://github.com/jpatter/ML-POT/blob/master/Images/BLB%20Sign%20into%20DSX%20User%20ID.png"/>
 
-9. Enter your password and click Sign Up. 
+9. Enter your password and click Sign in. 
  >  <img src="https://github.com/jpatter/ML-POT/blob/master/Images/BLB%20Sign%20into%20DSX%20Password.png"/>
+ 
+10. Select the IBM Cloud Account (IBM), select the organization (your e-mail), and then select the space (dev) and click Continue.
+ >  <img src="https://github.com/jpatter/ML-POT/blob/master/Images/BLB%20Select%20Organization%20and%20Space.png"/>
+
+ 
+11. It will take several minutes to set up the account. You will see several screens pop-up (e.g. Preparing Object-Storage, Initializing Environment). Wait until you see the following screen and then click on Get Started.
+>  <img src="https://github.com/jpatter/ML-POT/blob/master/Images/BLB%20Done.png"/>
+
 
 
  > You are now in the Data Science Experience landing page. Your environment is automatically set up with one Apache Spark instance and 5 GB of object storage. From here you can explore any of the tutorials, videos, sample notebooks, totorials or articles in the community.
 
->  <img src="https://raw.githubusercontent.com/jpatter/Proof-of-Technology/master/DSX/images/landing.png"/>
+>  <img src="https://github.com/jpatter/ML-POT/blob/master/Images/BLB%20Data%20Science%20Experience%20Welcome.png"/>
 
 ### Step 2. Create a project
 
 1. Click on Projects > View All Projects to see a list of your projects. You should only see a default project.
 
- >  <img src="https://raw.githubusercontent.com/jpatter/Proof-of-Technology/master/DSX/images/my-projects.png"/>
+ >  <img src="https://github.com/jpatter/ML-POT/blob/master/Images/BLB%20View%20All%20Projects.png"/>
 
-2. Click on the create project icon on the top right of the project list.
+2. Click on the New project icon on the top right of the project list.
 
- >  <img src="https://github.com/IBMDataScience/wow-lab-to-production/blob/master/images/create-new-project.png?raw=true" />
+ >  <img src="https://github.com/jpatter/ML-POT/blob/master/Images/BLB%20Create%20New%20Project.png" />
 
 3. Type a name for your project. For instance, "DSX Lab". A Spark service and an object storage will be automatically selected as well as a container with a default name. A container is a directory on the object storage. Click on Create.
 
- > You are now in your new project where you can create notebooks and data assets as well as add collaborators.
+ <img src="https://github.com/jpatter/ML-POT/blob/master/Images/BLB%20Enter%20Project%20Information.png" />
 
- >  <img src="https://github.com/IBMDataScience/wow-lab-to-production/blob/master/images/create-project.png?raw=true" width="512" height="499" />
+ > You are now in your new project where you can create notebooks and data assets as well as add collaborators.
 
 You are now ready to begin [Lab-1](Lab-1/).
