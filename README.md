@@ -85,5 +85,7 @@ __NOTE__: If you already have a DSX account, please skip to __Step 2__.
  <img src="https://github.com/jpatter/ML-POT/blob/master/Images/BLB%20Enter%20Project%20Information.png" width="624" height="300"/>
 
  > You are now in your new project where you can create notebooks and data assets as well as add collaborators.
+ 
+ <img src="https://github.com/jpatter/ML-POT/blob/master/Images/BLB%20DSX%20Lab%20Project.png" width="624" height="300"/>
 
 You are now ready to begin [Lab-1](Lab-1/).
